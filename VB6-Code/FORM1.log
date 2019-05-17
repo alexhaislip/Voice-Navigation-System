@@ -1,0 +1,17 @@
+Line 52: Class MSComctlLib.ImageList of control imlSmallIcons was not a loaded control class.
+Line 61: Class MSComctlLib.ImageList of control imlIcons was not a loaded control class.
+Line 133: Class MSComctlLib.ListView of control ListView1 was not a loaded control class.
+Line 55: The property name _ExtentX in imlSmallIcons is invalid.
+Line 56: The property name _ExtentY in imlSmallIcons is invalid.
+Line 58: The property name MaskColor in imlSmallIcons is invalid.
+Line 59: The property name _Version in imlSmallIcons is invalid.
+Line 64: The property name _ExtentX in imlIcons is invalid.
+Line 65: The property name _ExtentY in imlIcons is invalid.
+Line 67: The property name MaskColor in imlIcons is invalid.
+Line 68: The property name _Version in imlIcons is invalid.
+Line 139: The property name _ExtentX in ListView1 is invalid.
+Line 140: The property name _ExtentY in ListView1 is invalid.
+Line 141: The property name LabelWrap in ListView1 is invalid.
+Line 142: The property name HideSelection in ListView1 is invalid.
+Line 143: The property name _Version in ListView1 is invalid.
+Line 148: The property name NumItems in ListView1 is invalid.

@@ -1,0 +1,31 @@
+[Grammar]
+langid=1033
+type=cfg
+
+[<start>]
+<start>=A "A"
+<start>=B "B"
+<start>=c "C"
+<start>=D "D"
+<start>=E "E"
+<start>=F "F"
+<start>=G "G"
+<start>=H "H"
+<start>=I "I"
+<start>=J "J"
+<start>=K "K"
+<start>=L "L"
+<start>=M "M"
+<start>=N "N"
+<start>=O "O"
+<start>=P "P"
+<start>=Q "Q"
+<start>=R "R"
+<start>=S "S"
+<start>=T "T"
+<start>=U "U"
+<start>=V "V"
+<start>=W "W"
+<start>=X "X"
+<start>=Y "Y"
+<start>=Z "Z"

@@ -1,0 +1,4 @@
+VNS is idle to run in Background !
+Click "Run in System Tray" from File Menu !
+There are numerous options for having VNS customised ! Check them in View -> Options Menu.
+There are four interesting utilities provided alongwith VNS. They can be accessed from Utilities Menu.

@@ -1,0 +1,15 @@
+[Grammar]
+langid=1033
+type=cfg
+
+[<start>]
+<start>=Shell "C:\\VNS\\VB Projects\\VB Library\\procdrag.exe"
+<start>=Project1 "C:\\VNS\\VB Projects\\VB Library\\procdrag.exe"
+<start>=Mail "C:\\VNS\\SAPI Samples\\MAIL\\MAIL.exe"
+<start>=Dictation "C:\\VNS\\SAPI Samples\\DICTAPAD\\DICTAPAD.exe"
+
+<start>=Show Command List "Command List"
+<start>=Run in System Tray "System Tray"
+<start>=Show Application "Show Application"
+<start>=Options "Options"
+<start>=Disk Navigator "Disk Navigator"

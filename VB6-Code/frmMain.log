@@ -1,0 +1,4 @@
+Line 57: Class ACTIVELISTENPROJECTLibCtl.DirectSR of control DSR was not a loaded control class.
+Line 66: Class HTTSLibCtl.TextToSpeech of control TTS was not a loaded control class.
+Line 60: The property name OleObjectBlob in DSR is invalid.
+Line 69: The property name OleObjectBlob in TTS is invalid.
